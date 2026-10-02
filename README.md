@@ -16,7 +16,8 @@
   <h3 align="center">Academic Projects Portfolio</h3>
 
   <p align="center">
-    Every project I built during my studies at ESIR (University of Rennes).
+    Hi! I'm Victor Dessaigne, an engineering student at ESIR (École Supérieure d'Ingénieurs de Rennes), specializing in Computer Science.
+    This repository gathers every project I worked on during my studies, organized chronologically. It shows how my skills evolved, from the mathematical foundations of preparatory classes to full engineering projects.
     <br />
     <br />
     <a href="#highlights">See Highlights</a>
