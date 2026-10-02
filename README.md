@@ -61,7 +61,12 @@
 
 ## About the Repository
 
-Placeholder
+[ESIR][esir-url] is a five-year engineering school of the University of Rennes. The first two years form an integrated preparatory cycle (maths, physics, computer science), followed by a three-year engineering cycle in which I specialized in Computer Science.
+
+Projects are grouped by year, from the most recent to the oldest. Each one has its own folder with a `README.md` covering the subject, how to run it, and what I learned. Many of them were team projects; the "Team" column shows the team size, and each project's README details my contribution.
+
+> [!NOTE]
+> These projects are shared for portfolio purposes. If you are an ESIR student working on the same subject, feel free to take inspiration, but please don't copy them for your own assignments.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
