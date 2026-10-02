@@ -150,7 +150,7 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 
 ## Contact
 
-Placeholder - [LinkedIn](https://linkedin.com/in/victor-dessaigne) - victor.dessaigne@proton.me
+[LinkedIn](https://linkedin.com/in/victor-dessaigne) - victor.dessaigne@proton.me
 
 Project Link: [https://github.com/CraftCruiser/ESIR-projects](https://github.com/CraftCruiser/ESIR-projects)
 
