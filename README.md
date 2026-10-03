@@ -9,7 +9,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO">
+  <a href="https://github.com/CraftCruiser/ESIR-projects">
     <img src="images/logo.png" alt="Logo" width="160" height="160">
   </a>
 
@@ -24,7 +24,7 @@
     &middot;
     <a href="#engineering-cycle">Browse Projects</a>
     &middot;
-    <a href="https://linkedin.com/in/YOUR_PROFILE">Contact Me</a>
+    <a href="#contact">Contact Me</a>
   </p>
 </div>
 
@@ -76,7 +76,7 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 
 | Project                                  | Year        | Description    | Stack          |
 | ---------------------------------------- | :---------: | -------------- | -------------- |
-| [Placeholder](ESIR3/placeholder)         | Placeholder | Placeholder    | `Placeholder`  |
+| [Knight Tower](PREPA2/1%20-%20Projet%20Jeu%20Python) | Prépa 2 | 2D platformer where a knight races to the top of a tower, with a built-in level editor | `Python` `Pygame` |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +112,7 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 
 | Project                                  | Description    | Stack          | Team         |
 | ---------------------------------------- | -------------- | -------------- | :----------: |
-| [Placeholder](PREPA2/placeholder)        | Placeholder    | `Placeholder`  | Placeholder  |
+| [Knight Tower](PREPA2/1%20-%20Projet%20Jeu%20Python) | 2D pixel-art platformer: climb a tower as fast as possible. Custom physics, smooth camera, menus and a multi-layer level editor | `Python` `Pygame` | 4 |
 
 ### Prépa 1
 
@@ -142,6 +142,7 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 
 ### Tools & Frameworks
 
+* [![Pygame][Pygame]][Pygame-url]
 * [![Git][Git]][Git-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -179,5 +180,7 @@ Project Link: [https://github.com/CraftCruiser/ESIR-projects](https://github.com
 [esir-url]: https://esir.univ-rennes.fr/
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
+[Pygame]: https://img.shields.io/badge/Pygame-2E8B57?style=for-the-badge&logo=python&logoColor=white
+[Pygame-url]: https://www.pygame.org/
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
