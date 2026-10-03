@@ -1,0 +1,11 @@
+{
+    "display_resolution": [
+        1280,
+        720
+    ],
+    "music_volume": 0.1,
+    "fullscreen": false,
+    "show_fps": false,
+    "play_intro": false,
+    "play_music": false
+}
