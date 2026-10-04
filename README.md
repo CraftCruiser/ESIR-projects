@@ -9,8 +9,18 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/CraftCruiser/ESIR-projects">
-    <img src="images/logo.png" alt="Logo" width="160" height="160">
+  <a href="https://esir.univ-rennes.fr/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/esir-logo-white.png">
+      <img src="images/esir-logo-dark.png" alt="ESIR logo" height="90">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.univ-rennes.fr/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/univ-rennes-logo-white.png">
+      <img src="images/univ-rennes-logo-dark.png" alt="University of Rennes logo" height="90">
+    </picture>
   </a>
 
   <h3 align="center">Academic Projects Portfolio</h3>
