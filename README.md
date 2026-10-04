@@ -112,17 +112,6 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-## Side Projects
-
-| Project                                    | Description    | Stack          | Status       |
-| ------------------------------------------ | -------------- | -------------- | :----------: |
-| [Placeholder](SIDE-PROJECTS/placeholder)   | Placeholder    | `Placeholder`  | Placeholder  |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ## Skills
 
 ### Languages
