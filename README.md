@@ -76,6 +76,7 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 
 | Project                                  | Year        | Description    | Stack          |
 | ---------------------------------------- | :---------: | -------------- | -------------- |
+| [ISATI Website](ESIR2/1%20-%20Site%20ISATI) | ESIR 2 | Full rewrite of ESIR's student association website, led as its CTO, used by 134 students during the WEI | `React` `TypeScript` `PocketBase` |
 | [Knight Tower](PREPA2/1%20-%20Projet%20Jeu%20Python) | Prépa 2 | 2D platformer where a knight races to the top of a tower, with a built-in level editor | `Python` `Pygame` |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -94,7 +95,7 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 
 | Project                                  | Description    | Stack          | Team         |
 | ---------------------------------------- | -------------- | -------------- | :----------: |
-| [Placeholder](ESIR2/placeholder)         | Placeholder    | `Placeholder`  | Placeholder  |
+| [ISATI Website](ESIR2/1%20-%20Site%20ISATI) | Full rewrite of ESIR's student association website as its CTO: accounts, roles and a WEI challenge platform used by 124 participants (481 photo/video validations). Live at [isati.org](https://www.isati.org) | `React` `TypeScript` `PocketBase` | 2 |
 
 ### ESIR 1
 
@@ -139,9 +140,15 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 ### Languages
 
 * [![Python][Python]][Python-url]
+* [![TypeScript][TypeScript]][TypeScript-url]
+* [![JavaScript][JavaScript]][JavaScript-url]
 
 ### Tools & Frameworks
 
+* [![React][React.js]][React-url]
+* [![Vite][Vite]][Vite-url]
+* [![TailwindCSS][Tailwind]][Tailwind-url]
+* [![PocketBase][PocketBase]][PocketBase-url]
 * [![Pygame][Pygame]][Pygame-url]
 * [![Git][Git]][Git-url]
 
@@ -184,3 +191,15 @@ Project Link: [https://github.com/CraftCruiser/ESIR-projects](https://github.com
 [Pygame-url]: https://www.pygame.org/
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://developer.mozilla.org/docs/Web/JavaScript
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://react.dev/
+[Vite]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+[Vite-url]: https://vite.dev/
+[Tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[PocketBase]: https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black
+[PocketBase-url]: https://pocketbase.io/
