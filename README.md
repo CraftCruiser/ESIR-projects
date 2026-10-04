@@ -85,12 +85,6 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 
 ## Engineering Cycle
 
-### ESIR 3
-
-| Project                                  | Description    | Stack          | Team         |
-| ---------------------------------------- | -------------- | -------------- | :----------: |
-| [Placeholder](ESIR3/placeholder)         | Placeholder    | `Placeholder`  | Placeholder  |
-
 ### ESIR 2
 
 | Project                                  | Description    | Stack          | Team         |
@@ -114,12 +108,6 @@ Projects are grouped by year, from the most recent to the oldest. Each one has i
 | Project                                  | Description    | Stack          | Team         |
 | ---------------------------------------- | -------------- | -------------- | :----------: |
 | [Knight Tower](PREPA2/1%20-%20Projet%20Jeu%20Python) | 2D pixel-art platformer: climb a tower as fast as possible. Custom physics, smooth camera, menus and a multi-layer level editor | `Python` `Pygame` | 4 |
-
-### Prépa 1
-
-| Project                                  | Description    | Stack          | Team         |
-| ---------------------------------------- | -------------- | -------------- | :----------: |
-| [Placeholder](PREPA1/placeholder)        | Placeholder    | `Placeholder`  | Placeholder  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
