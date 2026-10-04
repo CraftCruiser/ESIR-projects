@@ -48,7 +48,6 @@
     <li>
       <a href="#engineering-cycle">Engineering Cycle</a>
       <ul>
-        <li><a href="#esir-3">ESIR 3</a></li>
         <li><a href="#esir-2">ESIR 2</a></li>
         <li><a href="#esir-1">ESIR 1</a></li>
       </ul>
@@ -60,7 +59,6 @@
         <li><a href="#prépa-1">Prépa 1</a></li>
       </ul>
     </li>
-    <li><a href="#side-projects">Side Projects</a></li>
     <li><a href="#skills">Skills</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
